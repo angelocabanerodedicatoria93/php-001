@@ -8,30 +8,49 @@
 
 <body>
   <?php
-  // echo "giraffe academy";
+  /*
+  // integer number
+  echo 40;
 
-  $phrase = "Giraffe Academy";
-  // echo $phrase;
-  // echo strtolower($phrase);
-  // echo strtoupper($phrase);
+  // floating poin number or decimal number
+  echo 40.998;
+  */
 
-  // echo strtoupper("dog");
+  // echo 5 + 9;
+  // echo 5.7 * 9;
 
-  // echo strlen($phrase);
+  /*
+  // modulos operator = remainder
+  echo 10 % 3; // remainder of 1
+  echo "<hr>";
+  echo (4 + 5) * 10;
+  */
 
-  // echo $phrase[0];
-  // echo $phrase[1];
+  /*
+  $num = 10;
+  echo $num;
+  */
 
-  // echo "mike"[0];
+  /*
+  $num = 10;
+  // $num++;
+  // $num--;
+  // $num = $num + 25;
+  $num += 25;
+  echo $num;
+  */
 
-  // $phrase[0] = "b";
-  // echo $phrase;
+  // echo abs(-100);
+  // echo pow(2, 4);
+  // echo sqrt(144);
 
-  // echo str_replace("Giraffe", "Panda", $phrase);
-  // echo str_replace("ffe", "Panda", $phrase);
+  // echo max(2, 10);
+  // echo min(2, 10);
 
-  // echo substr($phrase, 8);
-  echo substr($phrase, 8, 3);
+  // echo round(3.2);
+  // echo round(3.7);
+  // echo ceil(3.3);
+  echo floor(3.9);
   ?>
 
 </body>

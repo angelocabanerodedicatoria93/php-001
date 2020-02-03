@@ -26,4 +26,5 @@ http://localhost:4000
 
 http://localhost:4000/www/site.php
 
-string functions
+string functions<br/>
+math functions<br/>
