@@ -13,12 +13,12 @@
     // $isTall = true;
     $isTall = false;
 
-    if ($isMale && $isTall) {
+    // if ($isMale && $isTall) {
+    if ($isMale || $isTall) {
       echo "you are a tall male";
     } else {
       echo "you are not male";
     }
-
   ?>
 </body>
 </html>
